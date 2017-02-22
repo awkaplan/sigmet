@@ -1,0 +1,4 @@
+*.pem
+*.pyc
+.DS_Store
+.idea
